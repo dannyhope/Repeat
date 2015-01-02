@@ -1,4 +1,4 @@
-Repeat
+Rotate
 ======
 
 Learn the web by spaced repetition
